@@ -15,7 +15,9 @@ UCI wine data set
 
 Score admitted dataset
 
-![img]
+Train result
+
+![img](https://github.com/laurence-lin/Logistic-Regression/blob/master/logistic%20regression%20result%201.png)
 
 Logistic Regression Result for wine data set after PCA:
 
